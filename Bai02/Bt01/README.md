@@ -29,6 +29,8 @@ Tên ứng dụng: MyApp_V2
 ## 5. sự thay đổi giao diện
 - Ảnh trang chủ
 <img width="453" height="639" alt="image" src="https://github.com/user-attachments/assets/0a130ed8-0a2b-4b60-a99e-47f8b6ed2ec6" />
+
+
 - Ảnh vào menu
 - <img width="457" height="644" alt="image" src="https://github.com/user-attachments/assets/a4261f2e-64a7-468e-bd6e-43775b3a1995" />
 
