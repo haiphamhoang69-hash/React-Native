@@ -1,5 +1,7 @@
 📚 BÀI TẬP 3 – THIẾT KẾ DANH SÁCH SẢN PHẨM CÓ THỂ TÁI SỬ DỤNG TIÊU ĐỀ
-1. Giới thiệu
+1. Giới thiệu và link expo
+
+https://snack.expo.dev/@phamhoanghai/-productapp
 
 Xây dựng giao diện ứng dụng bán sách BOOK STORE bằng React Native.
 
