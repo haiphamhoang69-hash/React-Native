@@ -26,7 +26,10 @@ Tên ứng dụng: MyApp_V2
 - **Main.js:** Hiển thị danh sách các loại trà sữa và đồ uống kèm hình ảnh, tên sản phẩm và giá bán. Ngoài ra, có chức năng tìm kiếm đồ uống.
 - **Footer.js:** Hiển thị lời cảm ơn khách hàng và thông tin hotline của cửa hàng.
 
-## 5. sự thay đổi giao diện
+## 5. sự thay đổi giao diện và link expo
+
+https://snack.expo.dev/@phamhoanghai/myapp_v2
+
 - Ảnh trang chủ
 <img width="453" height="639" alt="image" src="https://github.com/user-attachments/assets/0a130ed8-0a2b-4b60-a99e-47f8b6ed2ec6" />
 
