@@ -26,7 +26,13 @@ Tên ứng dụng: MyApp_V2
 - **Main.js:** Hiển thị danh sách các loại trà sữa và đồ uống kèm hình ảnh, tên sản phẩm và giá bán. Ngoài ra, có chức năng tìm kiếm đồ uống.
 - **Footer.js:** Hiển thị lời cảm ơn khách hàng và thông tin hotline của cửa hàng.
 
-## 5. Kết quả đạt được
+## 5. sự thay đổi giao diện
+- Ảnh trang chủ
+<img width="453" height="639" alt="image" src="https://github.com/user-attachments/assets/0a130ed8-0a2b-4b60-a99e-47f8b6ed2ec6" />
+- Ảnh vào menu
+- <img width="457" height="644" alt="image" src="https://github.com/user-attachments/assets/a4261f2e-64a7-468e-bd6e-43775b3a1995" />
+
+## 6. Kết quả đạt được
 
 Sau khi thực hiện, ứng dụng đã hoàn thành các giao diện cơ bản gồm màn hình chào mừng, trang chủ, khu vực giới thiệu cửa hàng, danh sách đồ uống và phần thông tin liên hệ.
 
