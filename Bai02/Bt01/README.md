@@ -32,7 +32,10 @@ Tên ứng dụng: MyApp_V2
 
 
 - Ảnh vào menu
-- <img width="457" height="644" alt="image" src="https://github.com/user-attachments/assets/a4261f2e-64a7-468e-bd6e-43775b3a1995" />
+<img width="457" height="644" alt="image" src="https://github.com/user-attachments/assets/a4261f2e-64a7-468e-bd6e-43775b3a1995" />
+
+<img width="451" height="642" alt="image" src="https://github.com/user-attachments/assets/745391d3-d441-44ad-9f2d-8ccaccee0100" />
+
 
 ## 6. Kết quả đạt được
 
