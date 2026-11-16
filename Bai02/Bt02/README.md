@@ -59,20 +59,16 @@ Tạo danh sách môn học bằng mảng dữ liệu và hàm map().
 <img width="189" height="184" alt="image" src="https://github.com/user-attachments/assets/49080b27-d6c7-4572-8a9c-bf8a8e75fc71" />
 
 
-3.3. Giao diện StatCard
-
-!Giao diện StatCard
-
-3.4. Thống kê môn học
+3.3. Thống kê môn học
 
 <img width="313" height="196" alt="image" src="https://github.com/user-attachments/assets/cd72a507-3157-44aa-938a-a2f36fd14a1c" />
 
 
-3.5. Danh sách môn học
+3.4. Danh sách môn học
 
 <img width="323" height="504" alt="image" src="https://github.com/user-attachments/assets/db896702-4bae-4492-aa72-49b373052a41" />
 
-3.6. Thanh giả lập
+3.5. Thanh giả lập
 
 <img width="336" height="76" alt="image" src="https://github.com/user-attachments/assets/1bdfb6dd-0d2d-45c0-a200-30cc267e9040" />
 
