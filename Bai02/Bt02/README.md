@@ -1,5 +1,5 @@
 BÀI TẬP 02: THIẾT KẾ TRANG CHỦ ỨNG DỤNG HỌC TẬP
-1. Link ứng dụng Expo
+1. Link ứng dụng Expo : https://snack.expo.dev/@phamhoanghai/learningapp
 Tên ứng dụng: LearningApp
 Link Expo: Dán link ứng dụng tại đây.
 2. Quá trình thực hiện
