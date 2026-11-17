@@ -150,39 +150,6 @@ Khi chọn ngày không có lịch học, ứng dụng hiển thị thông báo 
 
 !EmptySchedule
 
-7. Công nghệ và kiến thức sử dụng
-
-Trong quá trình xây dựng ứng dụng, em đã sử dụng và thực hành các kiến thức sau:
-
-React Native: Xây dựng giao diện ứng dụng di động.
-JavaScript: Xử lý dữ liệu và các chức năng của ứng dụng.
-Components: Chia giao diện thành các thành phần riêng biệt.
-useState: Quản lý ngày được chọn.
-Array.map(): Hiển thị danh sách các ngày trong tuần.
-Array.filter(): Lọc danh sách lịch học theo ngày.
-TouchableOpacity: Xử lý thao tác nhấn chọn ngày.
-StyleSheet: Thiết kế và định dạng giao diện.
-8. Cấu trúc thư mục dự án
-text
-Bt06/
-│
-├── App.js
-│
-├── components/
-│   ├── Header.js
-│   ├── WeekCalendar.js
-│   └── ScheduleList.js
-│
-├── images/
-│   ├── Header.png
-│   ├── WeekCalendar.png
-│   ├── ScheduleList.png
-│   ├── AppScreen.png
-│   ├── ChangeDay.png
-│   └── EmptySchedule.png
-│
-└── README.md
-
 9. Kết quả đạt được
 
 Sau khi hoàn thành bài tập, em đã xây dựng được ứng dụng ScheduleApp với các chức năng:
